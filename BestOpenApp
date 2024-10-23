@@ -9,3 +9,5 @@
 5) db: postgresql, mysqldb, 
 
 6) cache: redis
+
+7) soapUI, postman
