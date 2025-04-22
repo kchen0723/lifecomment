@@ -1,7 +1,7 @@
 # 人生观 世界观 价值观
 
 ## 世界观 
-### 社会之本性
+### 世界本性残忍
 Every morning in Africa, a gazelle wakes up. It knows it must run faster than the fastest lion or it will be killed. Every morning a lion wakes up. It knows it must outrun the slowest gazelle or it will starve to death. It doesn't matter whether you’re a lion or a gazelle—when the sun comes up, you’d better be running.
 这是自然选择出来的自然本性。
 
@@ -9,9 +9,9 @@ Every morning in Africa, a gazelle wakes up. It knows it must run faster than th
 曾经强大但现在倒下去的公司及产品：诺基亚，Kodak 柯达，Yahoo，传呼机，Flash, Internet Explorer, 快播，苏联
 
 ### 利益驱动
+no free lunch, no free sex.
 皆为利益驱动(Benefit driven policy) (outcome driven, utilitarian driven)
 比如各国国家的移民准入制度，户口准入制度，医疗制度
-no free lunch, no free sex.
 加国政府放弃父母团聚移民，也是因为年老的父母对加国没有价值，没有贡献。
 上海市政府，深圳市政府不愿意为外来民工子女提供义务教育，是因为这样可以利益最大化，也就是税收照样收，但成本却不用承担
 同样道理，医保，社保，美国的关税政府，税收，审计，金融，保险，都是利益驱动而已。
@@ -34,10 +34,11 @@ no free lunch, no free sex.
 养老，应该更名为有支持的终身工作，而不是停工休息。
 Enjoy life, Enjoy worke
 适应减少工作时间，否则没有时间去思考和享受
-可以调整工作强度和时间，但不应该休息
+可以调整工作强度和时间，但不应该停止前进
 
-### 终身工作
+### 能够终身工作
 固定收益类
+股票投资类
 自己创业做小老板
 政府工作
 
@@ -82,9 +83,11 @@ E） 合法的，强制死亡，比如死刑，战争
 
 无限责任的例子也太多，比如夫妻关系，父母与子女的关系，党和政府与其官员的关系。
 这些关系，很多时候表面上是无限责任，比如结结婚誓词说的那样，但现实中，这些只能是许愿。
-无限责任的背后，往往隐藏着实际的有限责任。就像唐山大地震那样的情景，或者太多的道德困境问题。
+无限责任的背后，往往隐藏着实际的有限责任。就像唐山大地震那样的情景，或者太多的道德困境问题。 无限责任往往用契约，或者精神来掩盖有限责任的本质
 
-### 情绪价值，
+### 情绪价值
+物质文明重要，精神文明也不可缺少，两个要同步发展
+宗教，社区，党派最重要的作用是提供情绪价值
 爱情亲情，被量化为情绪价值
 负面情绪就是一种病毒，必须要隔离和治疗。
 1） 会影响自己的判断力
@@ -92,11 +95,12 @@ E） 合法的，强制死亡，比如死刑，战争
 3） 会从一个从传染给另一个人
 负面情绪的极点就是心理问题得精神问题。但两者之间没有绝对的界限，所以有时极难区分。
 
+
 ### 医疗价值
 什么叫医疗价值？人的生命到底可不可以用金钱来衡量？
 如果自己或者亲人过着没有尊严的生活，又需要金钱来支持医疗，而自己又负担不起时，该如何办？
 
-### 利益分配
+### 利益价值分配
 在大疫情或者战争，自然灾害的背景下，资源往往是有限的，不够用的，这种情况下，如何分配资源就是是一个大问题，
 比如：
 1) 冠状病毒大流行时（cvoid）
