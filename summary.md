@@ -1,9 +1,9 @@
 # 人生观 世界观 价值观
 
 ## 世界观 
-
 ### 社会之本性
 Every morning in Africa, a gazelle wakes up. It knows it must run faster than the fastest lion or it will be killed. Every morning a lion wakes up. It knows it must outrun the slowest gazelle or it will starve to death. It doesn't matter whether you’re a lion or a gazelle—when the sun comes up, you’d better be running.
+这是自然选择出来的自然本性。
 
 ### 社会之变化 
 曾经强大但现在倒下去的公司及产品：诺基亚，Kodak 柯达，Yahoo，传呼机，Flash, Internet Explorer, 快播，苏联
@@ -12,24 +12,34 @@ Every morning in Africa, a gazelle wakes up. It knows it must run faster than th
 皆为利益驱动(Benefit driven policy) (outcome driven, utilitarian driven)
 比如各国国家的移民准入制度，户口准入制度，医疗制度
 no free lunch, no free sex.
+加国政府放弃父母团聚移民，也是因为年老的父母对加国没有价值，没有贡献。
+上海市政府，深圳市政府不愿意为外来民工子女提供义务教育，是因为这样可以利益最大化，也就是税收照样收，但成本却不用承担
+同样道理，医保，社保，美国的关税政府，税收，审计，金融，保险，都是利益驱动而已。
+当年闹革命，也是因为利益驱动而已，政府，宗教都是利益驱动而已
+该如何设计一个系统，使得利益驱动大家，最终大家都收益，才是一个大难题的
 
 ### 利益驱动的应用
 维京群岛的信托制度，（把资产放到信托中，进行婚姻中的风险隔离）
-周教主技术性离婚，刘强东的婚前信托
+周鸿祎教主技术性离婚，刘强东的婚前信托
 
 ### 穷病
-世界上只有一种病：穷病 （出自电影《我不是药神》）
+世界上只有一种病：穷病 （出自电影《我不是药神》）（The worst disease in the world is not cancer, but poverty)
+贫穷本身是一种疾病
 
 ### 两大主题
 动物和人类的两大主题： 生存和繁殖，也就是事业和爱情，低俗点就是金钱和女人
 
 ## 人生观
-
 ### 退休不是停工休息
 养老，应该更名为有支持的终身工作，而不是停工休息。
 Enjoy life, Enjoy worke
 适应减少工作时间，否则没有时间去思考和享受
 可以调整工作强度和时间，但不应该休息
+
+### 终身工作
+固定收益类
+自己创业做小老板
+政府工作
 
 ### 计划终结，而不是消极死亡
 以前有计划生育，应该有计划终结，而不是消极死亡
@@ -56,7 +66,6 @@ D) 非法的， 强制死亡，比如《楢山节考》，湖北郧县的寄死�
 E） 合法的，强制死亡，比如死刑，战争
 
 ## 价值观
-
 ### 工作与价值
 有些工作可以干一辈子，对体能要求低，又简单的，比如进行固定收益类投资（银行存款之类的）。
 有些工作是程序性质的，对体能要求比较低，又有足够的退休保障，比如医生，老师和公务员，也能干一辈子。
@@ -82,6 +91,10 @@ E） 合法的，强制死亡，比如死刑，战争
 2） 会影响别人
 3） 会从一个从传染给另一个人
 负面情绪的极点就是心理问题得精神问题。但两者之间没有绝对的界限，所以有时极难区分。
+
+### 医疗价值
+什么叫医疗价值？人的生命到底可不可以用金钱来衡量？
+如果自己或者亲人过着没有尊严的生活，又需要金钱来支持医疗，而自己又负担不起时，该如何办？
 
 ### 利益分配
 在大疫情或者战争，自然灾害的背景下，资源往往是有限的，不够用的，这种情况下，如何分配资源就是是一个大问题，
