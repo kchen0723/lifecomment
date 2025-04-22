@@ -39,6 +39,7 @@ driven by value, resove by force（利益驱动，暴力解决）
 
 ## 人生观
 ### 退休不是停工休息
+Life time learning, Life time working
 养老，应该更名为有支持的终身工作，而不是停工休息。
 Enjoy life, Enjoy work
 work hard, work smart
