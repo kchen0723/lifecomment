@@ -1,10 +1,11 @@
 # 人生观 世界观 价值观
 
 ## 世界观 
-世界上只有一种病：穷病
 
-"Every morning in Africa, a gazelle wakes up. It knows it must run faster than the fastest lion or it will be killed. Every morning a lion wakes up. It knows it must outrun the slowest gazelle or it will starve to death. It doesn't matter whether you’re a lion or a gazelle—when the sun comes up, you’d better be running." 这是社会之本性
+### 社会之本性
+Every morning in Africa, a gazelle wakes up. It knows it must run faster than the fastest lion or it will be killed. Every morning a lion wakes up. It knows it must outrun the slowest gazelle or it will starve to death. It doesn't matter whether you’re a lion or a gazelle—when the sun comes up, you’d better be running.
 
+### 社会之变化 
 曾经强大但现在倒下去的公司及产品：诺基亚，Kodak 柯达，Yahoo，传呼机，Flash, Internet Explorer, 快播，苏联
 
 ### 利益驱动
@@ -16,7 +17,10 @@ no free lunch, no free sex.
 维京群岛的信托制度，（把资产放到信托中，进行婚姻中的风险隔离）
 周教主技术性离婚，刘强东的婚前信托
 
-三大容易争论的话题：宗教，政治和金钱
+### 穷病
+世界上只有一种病：穷病 （出自电影《我不是药神》）
+
+### 两大主题
 动物和人类的两大主题： 生存和繁殖，也就是事业和爱情，低俗点就是金钱和女人
 
 ## 人生观
@@ -99,3 +103,6 @@ E） 合法的，强制死亡，比如死刑，战争
 一方面，要求是市场化交易，要求降本增效，比如保险公司，比如商业公司
 另一方面，有时不能过于功利化，比如军人，医生，爱情，信仰，或者政府的公共利益。
 核心是能力与梦想的矛盾
+
+### 价值观容易对立的三大领域
+三大容易争论的话题：宗教，政治和金钱
