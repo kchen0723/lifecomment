@@ -3,21 +3,26 @@
 ## 世界观 
 ### 自然本性
 Every morning in Africa, a gazelle wakes up. It knows it must run faster than the fastest lion or it will be killed. Every morning a lion wakes up. It knows it must outrun the slowest gazelle or it will starve to death. It doesn't matter whether you’re a lion or a gazelle—when the sun comes up, you’d better be running.
+
 最后肯定跑不过时间的
 
 ### 社会之变化 
-曾经强大但现在倒下去的公司及产品：诺基亚，Kodak 柯达，Yahoo，传呼机，Flash, Internet Explorer, 快播，苏联
+曾经强大但现在倒下去的公司及产品：诺基亚，Kodak 柯达，Yahoo，传呼机，Flash, Internet Explorer, 快播，苏联， 网络支付
 
 ### 利益驱动
-没有永远的朋友，也没有永远的敌人，只有永远的利益
-no free lunch, no free sex.
 皆为利益驱动(Benefit driven policy) (outcome driven, utilitarian driven)
 比如各国国家的移民准入制度，户口准入制度，医疗制度
 加国政府放弃父母团聚移民，也是因为年老的父母对加国没有价值，没有贡献。
 上海市政府，深圳市政府不愿意为外来民工子女提供义务教育，是因为这样可以利益最大化，也就是税收照样收，但成本却不用承担
 同样道理，医保，社保，美国的关税政府，税收，审计，金融，保险，都是利益驱动而已。
 当年闹革命，也是因为利益驱动而已，政府，宗教都是利益驱动而已
+宗教也因为利益而不欢迎异教徒
 衣，食，住，行，婚姻，教育，医疗，住房，养老，金融，法律，娱乐，信仰，税收，统计，利率，汇率，股票，法律，战争
+
+### 利益面前，人人平等
+Everyone is equal before the value
+没有永远的朋友，也没有永远的敌人，只有永远的利益
+no free lunch, no free sex.
 
 ### 利益驱动的应用
 维京群岛的信托制度，（把资产放到信托中，进行婚姻中的风险隔离）
@@ -36,6 +41,7 @@ driven by value, resove by force（利益驱动，暴力解决）
 ### 退休不是停工休息
 养老，应该更名为有支持的终身工作，而不是停工休息。
 Enjoy life, Enjoy work
+work hard, work smart
 适应减少工作时间，否则没有时间去思考和享受
 可以调整工作强度和时间，但不应该停止前进
 
@@ -100,7 +106,6 @@ E） 合法的，强制死亡，比如死刑，战争
 3） 会从一个从传染给另一个人
 负面情绪的极点就是心理问题得精神问题。但两者之间没有绝对的界限，所以有时极难区分。
 
-
 ### 医疗价值
 什么叫医疗价值？人的生命到底可不可以用金钱来衡量？
 如果自己或者亲人过着没有尊严的生活，又需要金钱来支持医疗，而自己又负担不起时，该如何办？
@@ -128,3 +133,6 @@ E） 合法的，强制死亡，比如死刑，战争
 
 ### 价值观容易对立的三大领域
 三大容易争论的话题：宗教，政治和金钱
+
+### 断舍离
+对于价值不高或者没有价值的东西，要及时地断舍离
