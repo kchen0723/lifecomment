@@ -1,14 +1,14 @@
 # 人生观 世界观 价值观
 
 ## 世界观 
-### 世界本性残忍
+### 自然本性
 Every morning in Africa, a gazelle wakes up. It knows it must run faster than the fastest lion or it will be killed. Every morning a lion wakes up. It knows it must outrun the slowest gazelle or it will starve to death. It doesn't matter whether you’re a lion or a gazelle—when the sun comes up, you’d better be running.
-这是自然选择出来的自然本性。
+最后肯定跑不过时间的
 
 ### 社会之变化 
 曾经强大但现在倒下去的公司及产品：诺基亚，Kodak 柯达，Yahoo，传呼机，Flash, Internet Explorer, 快播，苏联
 
-### 利益驱动（value driven)
+### 利益驱动
 没有永远的朋友，也没有永远的敌人，只有永远的利益
 no free lunch, no free sex.
 皆为利益驱动(Benefit driven policy) (outcome driven, utilitarian driven)
@@ -17,12 +17,13 @@ no free lunch, no free sex.
 上海市政府，深圳市政府不愿意为外来民工子女提供义务教育，是因为这样可以利益最大化，也就是税收照样收，但成本却不用承担
 同样道理，医保，社保，美国的关税政府，税收，审计，金融，保险，都是利益驱动而已。
 当年闹革命，也是因为利益驱动而已，政府，宗教都是利益驱动而已
-该如何设计一个系统，使得利益驱动大家，最终大家都收益，才是一个大难题的
-衣，食，住，行，婚姻，教育，医疗，住房，养老，金融，法律，娱乐，信仰，税收，统计，利率，汇率，股票，
+衣，食，住，行，婚姻，教育，医疗，住房，养老，金融，法律，娱乐，信仰，税收，统计，利率，汇率，股票，法律，战争
 
 ### 利益驱动的应用
 维京群岛的信托制度，（把资产放到信托中，进行婚姻中的风险隔离）
 周鸿祎教主技术性离婚，刘强东的婚前信托
+该如何设计一个系统，使得利益驱动大家，最终大家都收益，才是一个大难题的
+driven by value, resove by force（利益驱动，暴力解决）
 
 ### 穷病
 世界上只有一种病：穷病 （出自电影《我不是药神》）（The worst disease in the world is not cancer, but poverty)
@@ -34,7 +35,7 @@ no free lunch, no free sex.
 ## 人生观
 ### 退休不是停工休息
 养老，应该更名为有支持的终身工作，而不是停工休息。
-Enjoy life, Enjoy worke
+Enjoy life, Enjoy work
 适应减少工作时间，否则没有时间去思考和享受
 可以调整工作强度和时间，但不应该停止前进
 
