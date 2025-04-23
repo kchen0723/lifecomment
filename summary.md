@@ -6,6 +6,9 @@ Every morning in Africa, a gazelle wakes up. It knows it must run faster than th
 
 最后肯定跑不过时间的
 
+### 丛林法则
+The law of the jungle.
+
 ### 社会之变化 
 适者生存
 曾经强大但现在倒下去的公司及产品：诺基亚，Kodak 柯达，Yahoo，传呼机，Flash, Internet Explorer, 快播，苏联
