@@ -17,6 +17,9 @@ The law of the jungle.
 既包括物质，也包括精神  
 马斯洛的人的需求分层理论：生理需求，安全需求，社交需求，尊重需求，自我实现需求
 
+### 利益的核心
+核心是物质利益，也就是钱。金钱能解决99%的问题，剩下的1%需要更多的钱。
+
 ### 利益驱动
 皆为利益驱动(Benefit driven policy) (outcome driven, utilitarian driven)  
 本质是成本与收益的权衡  
@@ -32,9 +35,6 @@ The law of the jungle.
 Everyone is equal before the value  
 没有永远的朋友，也没有永远的敌人，只有永远的利益  
 no free lunch, no free sex.
-
-### 利益的核心
-核心是物质利益，也就是钱。金钱能解决99%的问题，剩下的1%需要更多的钱。
 
 ### 利益驱动的应用
 维京群岛的信托制度，（把资产放到信托中，进行婚姻中的风险隔离）  
