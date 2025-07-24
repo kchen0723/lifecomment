@@ -32,7 +32,8 @@ The law of the jungle.
 衣，食，住，行，婚姻，教育，医疗，住房，养老，金融，法律，娱乐，信仰，税收，统计，利率，汇率，股票，法律，战争  
 
 ### 利益面前，人人平等
-Everyone is equal before the value  
+Everyone is equal before the value   
+人争一口气，佛争一柱香    
 没有永远的朋友，也没有永远的敌人，只有永远的利益  
 no free lunch, no free sex.
 
