@@ -43,6 +43,9 @@ no free lunch, no free sex.
 该如何设计一个系统，使得利益驱动大家，最终大家都收益，才是一个大难题的  
 driven by value, resove by force（利益驱动，暴力解决）  
 
+### 公平与正义
+正义也许会迟到，但永远不会缺席  VS  “Justice delayed is justice denied”（迟到的正义即非正义） 
+
 ### 穷病
 世界上只有一种病：穷病 （出自电影《我不是药神》）（The worst disease in the world is not cancer, but poverty)  
 贫穷本身是一种疾病  
