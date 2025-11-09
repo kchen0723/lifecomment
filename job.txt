@@ -5,3 +5,20 @@ GitHub
 stackoverflow
 workday
 https://www.omnissa.com/careers/jobs/?location=vancouver-bc-canada%2Cremote-canada-ontario#listing
+https://www.civicjobs.ca/jobs?id=107019
+https://www.vansky.com/news/bdxw/258759.html
+https://careers.thalesgroup.com/global/en/search-results?utm_source=AU-ApplicationUpdate&utm_medium=Email&utm_term=ooqr1vida4ong9j42kcgcis9k0&utm_campaign=666bc8a23dbdbb1abdadcff4&utm_medium=email&utm_source=crm-automation
+
+We make a measure head to scan solar cell.
+Another developer will do firmware.
+the firmware will send data to vai tcp/ip protocol.
+the server is done by .net framework 4.7.2, and run on ubuntu by Mono project.
+also use golang to provide web server. 
+The client is a web application, which is build on angular js and angular. it use rest api and websocket to communicate with webserver.
+
+SAR: situtation, action and result.
+
+I am a little too pushy. too pushy is not good. it will break the communication atmosphere, hit hown audience's emotion.
+I need to calm down. pay attention to audience's response. 
+
+daily build, interview process, remote working
