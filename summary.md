@@ -2,7 +2,7 @@
 
 ## 世界观：自然本性与利益驱动 
 ### 自然本性
-Every morning in Africa, a gazelle wakes up. It knows it must run faster than the fastest lion or it will be killed. Every morning a lion wakes up. It knows it must outrun the slowest gazelle or it will starve to death. It doesn't matter whether you’re a lion or a gazelle—when the sun comes up, you’d better be running.
+Every morning in Africa, a gazelle wakes up. It knows it must run faster than the fastest lion or it will be killed. Every morning a lion wakes up. It knows it must outrun the slowest gazelle or it will starve to death. It doesn't matter whether you’re a lion or a gazelle — when the sun comes up, you’d better be running.
 
 最后肯定跑不过时间的
 
