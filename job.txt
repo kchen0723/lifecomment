@@ -22,3 +22,11 @@ I am a little too pushy. too pushy is not good. it will break the communication 
 I need to calm down. pay attention to audience's response. 
 
 daily build, interview process, remote working
+
+we implement an airbnb guest screen application. it will retrieve airbnb guest review and classify it. 
+to retrieve airbnbu guest review, we use microsoft playwright framework.  
+it use zero shot classification by the model mDeBERTa-v3-base-mnli-xnli, also use facebook nllb-200-distilled-600M model to translate multi language to english.
+it use huggingface transformers to load and execute the model.
+
+For open auto-glm, the model is Luckybalabala/AutoGLM-Phone-9B-GGUF, we use llama server to run it on ubuntu.
+and handle the phone screen. it use pytorch2.9, python 3.14 and cu126. 
