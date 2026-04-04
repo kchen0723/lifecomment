@@ -20,8 +20,8 @@
 用纸包好红薯，玉米，然后用微波炉煮熟
 
 各种面条。
-中国的荞麦面，拉面，米粉，河粉，红薯粉，碱水面(如热干面，竹升面)，鸡蛋面
-各类方便面。
+中国的荞麦面，拉面，米粉，河粉，红薯粉，土豆粉，碱水面(如热干面，竹升面)，云吞面，鸡蛋面
+各类方便面，乌冬面，魔芋面
 spaghetti：圆形细面。linguine：压扁的面条。fettuccine，更宽，常配奶油酱。tagliatelle，更宽的面条。Pappardelle，非常宽
 fusilli，螺旋面。rotini，更小的最螺旋。gemelli，两根拧在一起。Cavatappi，螺旋通心粉。Ziti，长直管状面
 penne，斜切短管，通心粉。rigatoni，更粗。macaroni，弯曲的小管。Trofie，短扭曲状。
