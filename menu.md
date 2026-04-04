@@ -19,6 +19,17 @@
 
 用纸包好红薯，玉米，然后用微波炉煮熟
 
+各种面条。
+中国的荞麦面，拉面，米粉，河粉，红薯粉，碱水面(如热干面，竹升面)，鸡蛋面
+各类方便面。
+spaghetti：圆形细面。linguine：压扁的面条。fettuccine，更宽，常配奶油酱。tagliatelle，更宽的面条。Pappardelle，非常宽
+fusilli，螺旋面。rotini，更小的最螺旋。gemelli，两根拧在一起。Cavatappi，螺旋通心粉。Ziti，长直管状面
+penne，斜切短管，通心粉。rigatoni，更粗。macaroni，弯曲的小管。Trofie，短扭曲状。
+farfalle，蝴蝶结。orecchiette，小耳朵。conchiglie，贝壳状。
+ravioli，方形夹馅。tortellini，小环状。
+Lasagna 千层面，用来烤。Angel Hair，细面，Bucatini中空的圆形细面。Vermicelli，细面。
+Orzo，形似米饭。Ditalini，非常短的小管
+
 ## 电蒸箱
 蒸土豆块，南瓜，玉米，红薯，山药，芋头  
 粉蒸肉 (需腌制/用预拌粉), 豉汁排骨 (需腌制), 香菇滑鸡 (需腌制), 蒸米饭  
