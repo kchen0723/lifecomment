@@ -266,10 +266,13 @@ Make american great again,目标肯定没问题，但乱收关税就够吵架了
 有时候，价值在选择的时候会带来好多道德的困境，比如：  
 对于一定条件下的老年人，要不要选择安乐死以节约成本？  
 比如有缺陷的胎儿及新生儿，要不要选择放弃？  
-如果扳铁路铁轨能救五个人，不扳则只会死一个，要不要扳？    
+如果扳铁路铁轨能救五个人，不扳则只会死一个，要不要扳？(电车难题)    
 军队被围城而必须吃老百姓，是选择投降还是吃老百姓？  
 因为某种原因不能工作的官员，要不要开除而不是内退？  
-战友因伤而不能随军队行动，又因为条件没办法很好地安置，要不要放弃？  
+战友因伤而不能随军队行动，又因为条件没办法很好地安置，要不要放弃？
+《Desperate Housewives》 season 4 episode 9说：
+“Look, I invited Ida to come here. You, I'm doing a favor for. If you're not happy with the accommodations, you're free to leave.”.  
+Ida的猫是唯一的亲人，偏偏TOM对猫过敏，这时怎么办呢？  
 参见上面的“死亡的分类与伦理困境”
 
 ### 断舍离
