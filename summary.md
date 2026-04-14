@@ -272,7 +272,8 @@ Make american great again,目标肯定没问题，但乱收关税就够吵架了
 战友因伤而不能随军队行动，又因为条件没办法很好地安置，要不要放弃？
 《Desperate Housewives》 season 4 episode 9说：
 “Look, I invited Ida to come here. You, I'm doing a favor for. If you're not happy with the accommodations, you're free to leave.”.  
-Ida的猫是唯一的亲人，偏偏TOM对猫过敏，这时怎么办呢？  
+Ida的猫是唯一的亲人，偏偏TOM对猫过敏，这时怎么办呢？
+Georgette Malette vs shulman的关于输血的官司  
 参见上面的“死亡的分类与伦理困境”
 
 ### 断舍离
