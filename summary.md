@@ -268,7 +268,8 @@ Make american great again,目标肯定没问题，但乱收关税就够吵架了
 比如有缺陷的胎儿及新生儿，要不要选择放弃？  
 如果扳铁路铁轨能救五个人，不扳则只会死一个，要不要扳？(电车难题)    
 军队被围城而必须吃老百姓，是选择投降还是吃老百姓？  
-因为某种原因不能工作的官员，要不要开除而不是内退？  
+因为某种原因不能工作的官员，要不要开除而不是内退？
+急救医生不足，是让医生制度化地透支健康加班还是放弃急救？    
 战友因伤而不能随军队行动，又因为条件没办法很好地安置，要不要放弃？
 《Desperate Housewives》 season 4 episode 9说：
 “Look, I invited Ida to come here. You, I'm doing a favor for. If you're not happy with the accommodations, you're free to leave.”.  
