@@ -30,3 +30,5 @@ it use huggingface transformers to load and execute the model.
 
 For open auto-glm, the model is Luckybalabala/AutoGLM-Phone-9B-GGUF, we use llama server to run it on ubuntu.
 and handle the phone screen. it use pytorch2.9, python 3.14 and cu126. 
+
+Pocketos said that AI deleted the production database and all backups in just 9 seconds. 
