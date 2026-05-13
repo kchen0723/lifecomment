@@ -9,7 +9,7 @@ Every morning in Africa, a gazelle wakes up. It knows it must run faster than th
 ### 丛林法则
 The law of the jungle.
 
-强权即真理，真理在大炮的射程范围内。法律的平等只是对于普通人而言，强者直接制度法律。
+强权即真理，实力为正义。真理在大炮的射程范围内。法律的平等只是对于普通人而言，强者直接定制法律。
 中国禁止鲁比奥入境，结果他大摇大摆地来了。
 法院说要逮捕普京，结果他安全出入美国。
 中国打击双国籍，结果谷爱凌照样进出。
