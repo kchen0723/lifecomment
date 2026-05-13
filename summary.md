@@ -9,6 +9,13 @@ Every morning in Africa, a gazelle wakes up. It knows it must run faster than th
 ### 丛林法则
 The law of the jungle.
 
+强权即真理，真理在大炮的射程范围内。法律的平等只是对于普通人而言，强者直接制度法律。
+中国禁止鲁比奥入境，结果他大摇大摆地来了。
+法院说要逮捕普京，结果他安全出入美国。
+中国打击双国籍，结果谷爱凌照样进出。
+马杜罗是总统，说关就关起来了。
+孟晚舟安全地离开加拿大，法院也只能这样判的。
+
 ### 社会之变化 
 适者生存  
 曾经强大但现在倒下去的公司及产品：诺基亚，Kodak 柯达，Yahoo，传呼机，Flash, Internet Explorer, 快播，苏联， HTC手机，雷曼兄弟，计划生育，钻石，底特律    
