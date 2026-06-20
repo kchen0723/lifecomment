@@ -28,7 +28,7 @@ The law of the jungle.
 
 ### 利益的核心
 核心是物质利益，也就是钱。金钱能解决99%的问题，剩下的1%需要更多的钱。
-基本问题是：赚钱，花钱，分钱，借钱，存钱。
+基本问题是：赚钱，花钱，分钱，借钱，存钱，生钱，护钱，换钱，算钱。
 
 ### 利益驱动
 皆为利益驱动(Benefit driven policy) (outcome driven, utilitarian driven)  
