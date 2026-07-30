@@ -316,7 +316,9 @@ Make american great again,目标肯定没问题，但乱收关税就够吵架了
 《Desperate Housewives》 season 4 episode 9说：
 “Look, I invited Ida to come here. You, I'm doing a favor for. If you're not happy with the accommodations, you're free to leave.”.  
 Ida的猫是唯一的亲人，偏偏TOM对猫过敏，这时怎么办呢？
-Georgette Malette vs shulman的关于输血的官司  
+Georgette Malette vs shulman的关于输血的官司
+登高山时如果一个人掉下去了，在救缓无效时要不要割断保险绳？
+当家人无法脱困时要不要放手？当资源有限时，病人，流浪汉，弱者，老人如何办？  
 参见上面的“死亡的分类与伦理困境”
 
 ### 断舍离
