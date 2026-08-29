@@ -19,7 +19,8 @@ The law of the jungle.
 
 ### 社会之变化 
 适者生存  
-曾经强大但现在倒下去的公司及产品：诺基亚，Kodak 柯达，Yahoo，传呼机，Flash, Internet Explorer, 快播，苏联， HTC手机，雷曼兄弟，计划生育，钻石，底特律
+曾经强大但现在倒下去的公司及产品：诺基亚，Kodak 柯达，Yahoo，传呼机，Flash, Internet Explorer, 快播，苏联， HTC手机，雷曼兄弟，计划生育，钻石，底特律  
+中苏关系，中日关系，中美关系  
 天下没有不散的宴席      
 
 ### 利益和定义和范围
