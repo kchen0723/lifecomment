@@ -59,7 +59,7 @@ The law of the jungle.
 
 ### 利益面前，人人平等
 Everyone is equal before the value
-all money are equal(财产税)   
+all money are equal(财产税，也叫乔木税)   
 人争一口气，佛争一柱香    
 没有永远的朋友，也没有永远的敌人，只有永远的利益  
 no free lunch, no free sex.
