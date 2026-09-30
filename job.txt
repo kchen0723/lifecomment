@@ -52,3 +52,4 @@ Transformer:
 14) Transformer 与大模型的关系： 大模型还包括这些东西：海量预训练数据，模型结构设计，训练目标，分布式训练，SFT，RLHF，推理优化，量化部署，RAG，Agent
 
 Hot tempered, do not have enough patient when do not have similar mindset with audience.
+express different opinion, respect audience, change to his view, 要及时止损cut losses, 异步交流 aysn commuication,such as email, find 3rd party
