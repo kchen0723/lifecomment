@@ -50,3 +50,5 @@ Transformer:
 12）Why Decoder-Only: 适合自回归生成，训练更简单，可统一处理续写，问答，对话，代码生成
 13）KV Cache: 推理加速 
 14) Transformer 与大模型的关系： 大模型还包括这些东西：海量预训练数据，模型结构设计，训练目标，分布式训练，SFT，RLHF，推理优化，量化部署，RAG，Agent
+
+Hot tempered
