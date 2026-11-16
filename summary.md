@@ -40,7 +40,8 @@ The law of the jungle.
 国家和集体必须代表你的核心利益。如果集体利益与我无关，集体义务我样样不落，那就要考虑这个集体是不是真的代表着你。
 
 ### 利益驱动
-皆为利益驱动(Benefit driven policy) (outcome driven, utilitarian driven)  
+皆为利益驱动(Benefit driven policy) (outcome driven, utilitarian driven)
+统一利益驱动模型  
 本质是成本与收益的权衡  
 比如各国国家的移民准入制度，户口准入制度，医疗制度  
 加国政府放弃父母团聚移民，也是因为年老的父母对加国没有价值，没有贡献。  
